@@ -12,3 +12,5 @@ United States Air Force Veteran with 5 years of leadership experience as an Admi
 - ⚡ Fun fact: I have 7 cats 😛
 
 [Portfolio Website](https://www.sites.google.com/view/hybridtheory0)
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/troy-traynor/)
