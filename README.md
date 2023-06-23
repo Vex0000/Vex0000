@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ### About Me
 United States Air Force Veteran with 5 years of leadership experience as an Administration Craftsman looking to make a career transition into game and graphic design.
