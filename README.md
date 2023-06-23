@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 <!--
-
 ### About Me
 Summary: United States Air Force Veteran with 5 years of leadership experience as an Administration Craftsman looking to make a career transition into game and graphic design.
 
