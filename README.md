@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**Vex0000/Vex0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+Summary: United States Air Force Veteran with 5 years of leadership experience as an Administration Craftsman looking to make a career transition into game and graphic design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a 3D platformer game titled The Parade and The Theater.
+🌱 I’m currently learning C# and Unity.
+👯 I’m looking to collaborate on video game projects.
+🤔 I’m looking for help with networking.
+💬 Ask me about anything.
+📫 How to reach me: chenault.troy@gmail.com
+⚡ Fun fact: I have 7 cats 😛
+
+[Portfolio Website](https://www.sites.google.com/view/hybridtheory0)
